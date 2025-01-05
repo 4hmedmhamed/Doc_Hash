@@ -52,7 +52,7 @@ function MainPage() {
                         <h3 className='title-banner-third'>
                            لجراحات النساء والتوليد وعلاج العقم </h3>
                         <h2 className='title-bnner-seconed'> الدكتور هشام الشافعي</h2>
-                        <h2 className='title-banner-third '>إستشاري  امرض نساء</h2>
+                        <h2 className='title-banner-third '>إستشاري  أمراض  النساء</h2>
                         <h3 className='title-banner-third '>والتوليد وعلاج العقم </h3>
                      </div>
                      </div>

@@ -2,7 +2,7 @@ export const NavBar =[
     {
         id: 1,
         path: "/",
-        text: "الرئيسيه",
+        text: "الرئيسة",
       },
       {
         id: 2,
@@ -22,12 +22,12 @@ export const NavBar =[
       {
         id: 5,
         path: "/contact",
-        text: "اخبار",
+        text: "أخبار",
       },
       {
         id: 6,
         path: "/video",
-        text: "video",
+        text: "فيديو",
       },
       {
         id: 7,

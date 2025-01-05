@@ -163,7 +163,7 @@ const AppointmentForm = () => {
             </select>
               </div>
               <div className="col-md-6">
-                ss
+                
             <input
               type="date"
               placeholder="Appointment Date"

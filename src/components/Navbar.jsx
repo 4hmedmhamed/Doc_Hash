@@ -63,10 +63,10 @@ function OffCanvasExample({ name, ...props }) {
                           <Link to={'/Our_advantages'} className='nav-item fs-5 m-5 ' >مميزاتنا</Link>
                       </div>
                       <div className='m-3 border-bottom'>
-                          <Link to={'/'} className='nav-item fs-5 m-5 ' >اخبار</Link>
+                          <Link to={'/'} className='nav-item fs-5 m-5 ' >أخبار</Link>
                       </div>
                       <div   className='m-3 border-bottom'>
-                                      <Link to={'/video'} className='nav-item fs-5 m-5'>video</Link>
+                                      <Link to={'/video'} className='nav-item fs-5 m-5'>فيديو</Link>
                                   </div>
                       <div className='m-3 border-bottom'>
                           <Link to={'/connet'} className='nav-item fs-5 m-3 ' >تواصل معنا</Link>
@@ -84,10 +84,8 @@ function Navbar() {
     const handleMouseEnter = (itemId) => {
       setActiveDropdown(itemId);
     };
-  
     return (
         <>
-
             <div className='Nav-bar fixed-top   d-none d-lg-block'>
                 <Container>
                     <div className=''>

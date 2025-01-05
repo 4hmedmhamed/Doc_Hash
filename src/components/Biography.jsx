@@ -11,7 +11,13 @@ const Biography = ({}) => {
       <div className='row mt-5 border-bottom'>
         <h2 className='text-center text-primary ' >  من نحن؟</h2>
         <div className='d-flex justify-content-center'>
-        <iframe width="80%" height="500" src="https://www.youtube.com/embed/m-BqR-lU8RY?si=nKffV1igDtdYmSnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        {/* <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/_9kQYgGrz5M?si=2D84mztQX5kiqOJa&amp;controls=0" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> */}
+        <iframe width="80%" height="500" 
+        src="https://www.youtube.com/embed/_9kQYgGrz5M?si=2D84mztQX5kiqOJa&amp;controls=0" 
+        // src="https://www.youtube.com/embed/m-BqR-lU8RY?si=nKffV1igDtdYmSnE"
+         title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div>
           <p className='text-center mt-3 fs-4'>

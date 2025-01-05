@@ -15,8 +15,14 @@ import painkiller from '../../public/assit/Our_advantages/painkiller.jpg'
 import Anesthetist from '../../public/assit/Our_advantages/Anesthetist.jpg'
 import sterilization from '../../public/assit/Our_advantages/sterilization.jpg'
 import clinck from '../../public/assit/Our_advantages/clinck.jpg'
-import artical from '../../public/assit/Our_advantages/artical.jpg'
+import Dangers from '../../public/assit/Our_advantages/Dangers.jpg'
+import anlises from '../../public/assit/Our_advantages/anlises.jpg'
+import how from '../../public/assit/Our_advantages/how.jpg'
+import hear from '../../public/assit/Our_advantages/hear.jpg'
+import sonar from '../../public/assit/Our_advantages/sonar.jpg'
 import frist from '../../public/assit/Our_advantages/artical.jpg'
+import visit from '../../public/assit/Our_advantages/visit.jpg'
+import tawabel from '../../public/assit/Our_advantages/tawabel.jpg'
 const Departments = () => {
 
   const settings = {
@@ -261,20 +267,20 @@ const Departments = () => {
             <div className='m-4'>
 
             <img
-                src={artical}
+                src={Dangers}
                 style={{
                   width: '95%',
                   borderRadius: "10px",
                   margin:"10px"
                 }}
             />
-              <Link href={'/'}>
-              <p   className='text-primary'> ... 6 اكلات تزود حجم الجنين</p>
+              <Link to={'/Report_1'}>
+              <p   className='text-primary'>إحذري العادات دي لأنها ممكن تسبب العقم ❎</p>
               </Link>
             </div>
             <div className='m-4'>
             <img
-                src={artical}
+                src={anlises}
                 style={{
                   width: '95%',
                   borderRadius: "10px",
@@ -282,22 +288,107 @@ const Departments = () => {
                 }}
             />
 
-              <Link href={'/'}>
-              <p   className='text-primary'> ... 6 اكلات تزود حجم الجنين</p>
+              <Link to={'/Report_2'}>
+              <p   className='text-primary'>      ايه هي أهم تحاليل فترة الحمل؟!
+              </p>
               </Link>
             </div>
             <div className='m-4'>
               
             <img
-                src={artical}
+                src={sonar}
                 style={{
                   width: '95%',
                   borderRadius: "10px",
                   margin:"10px"
                 }}
             />
-              <Link href={'/'}>
-              <p   className='text-primary'> ... 6 اكلات تزود حجم الجنين</p>
+              <Link to={'/Report_3'}>
+              <p   className='text-primary'>       ليه تعملي سونار خلال فترة حملك؟
+              </p>
+              </Link>
+            </div>
+            <div className='m-4'>
+              
+            <img
+                src={how}
+                style={{
+                  width: '95%',
+                  borderRadius: "10px",
+                  margin:"10px"
+                }}
+            />
+              <Link to={'/Report_4'}>
+              <p   className='text-primary'>     إزاي تحافظي على صحة ظهرك خلال الحمل؟!😎
+
+              </p>
+              </Link>
+            </div>
+            <div className='m-4'>
+              
+            <img
+                src={hear}
+                style={{
+                  width: '95%',
+                  borderRadius: "10px",
+                  margin:"10px"
+                }}
+            />
+              <Link to={'/Report_5'}>
+              <p   className='text-primary'>    لو شعرك بيقع خلال فترة حملك وجربتي طرق كتير لكن مش عارفة إيه الحل؟ 🤔
+
+              </p>
+              </Link>
+            </div>
+            <div className='m-4'>
+              
+            <img
+                src={visit}
+                style={{
+                  width: '95%',
+                  borderRadius: "10px",
+                  margin:"10px"
+                }}
+            />
+              <Link to={'/Report_6'}>
+              <p   className='text-primary'>          ليه تعملي متابعة شهرية خلال حملك؟ ❤
+
+              </p>
+              </Link>
+            </div>
+            <div className='m-4'>
+              
+            <img
+                src={tawabel}
+                style={{
+                  width: '95%',
+                  borderRadius: "10px",
+                  margin:"10px"
+                }}
+            />
+              <Link to={'/Report_7'}>
+              <p   className='text-primary'>        هل أكل التوابل يسبب الإجهاض؟ 🤔
+
+              </p>
+              </Link>
+            </div>
+          
+            <div className='m-4'>
+              
+            <img
+                src={tawabel}
+                style={{
+                  width: '95%',
+                  borderRadius: "10px",
+                  margin:"10px"
+                }}
+            />
+              <Link to={'/Report_8'}>
+              <p   className='text-primary'>  قبل الحقن المجهري، إيه اهم التحاليل اللي تعمليها؟ 🧐
+
+
+
+              </p>
               </Link>
             </div>
           
