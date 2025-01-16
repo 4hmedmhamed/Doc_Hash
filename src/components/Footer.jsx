@@ -63,7 +63,7 @@ const Footer = () => {
               <div className='col-md-4 text'>
                 <h5 className='text-light fs-5 mt-5 '>احدث المقالات </h5>
                 <h5 className='text-light mt-3 '>
-                  الولادة الطبيعية، والمعروفة أيضًا بالولادة المهبلية، لها فوائد مختلفة لكل امرأة حامل.
+                  الولادة الطبيعية،  لها فوائد مختلفة لكل امرأة حامل.
                 </h5>
                 <h5 className='text-light mt-2 '>
                   يشمل بعضها حصول الطفل على بكتيريا مفيدة، ومشاكل تنفس أقل، في وقت مبكر الرضاعة الطبيعية،
@@ -98,6 +98,12 @@ const Footer = () => {
                   </div>
                   <div className='6 mx-2'>
                     <Link to={'https://api.whatsapp.com/send?phone=01066726667'}>
+                        <img src={wath} alt=""  style={{ borderRadius: "20px"  ,width:"30px" , height:"30px"}}/>
+                    
+                    </Link>
+                  </div>
+                  <div className='6 mx-2'>
+                    <Link to={'https://www.tiktok.com/@qasr.elnile.center'}>
                         <img src={wath} alt=""  style={{ borderRadius: "20px"  ,width:"30px" , height:"30px"}}/>
                     
                     </Link>

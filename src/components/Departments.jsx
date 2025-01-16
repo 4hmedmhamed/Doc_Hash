@@ -65,7 +65,7 @@ const Departments = () => {
                 </div>
                 <div className='col-8'>
                   <p className='fs-5 mt-2 m-2 mt-4  text-advantages'>
-                    يوجد أستاف تمريضي  على أفضل مستوي
+                  يوجد استاف تمريضي على أعلى مستوى
                   </p>
                 </div>
               </div>
@@ -87,7 +87,7 @@ const Departments = () => {
                 </div>
                 <div className='col-8'>
                   <p className='fs-5  m-4 mt-4  text-advantages'>
-                    نخبة من أفضل أطباء .
+                  نخبة من أفضل الأطباء.
                   </p>
                 </div>
               </div>
@@ -209,7 +209,7 @@ const Departments = () => {
           <Slider {...settings}>
             <div className='text-center m-2'>
               <p className='border-bottom p-2  m-2 fs-5'>
-                Reham Talat
+                Reham 
               </p>
               <p>
               اللهم بارك فعلا الجهاز تحفه ووفر علينا عمل اشاعه غاليه ربنا يوفقك حضرتك يادكتور
@@ -218,7 +218,7 @@ const Departments = () => {
             </div>
             <div className='text-center m-2'>
               <p className='border-bottom p-2  m-2 fs-5'>
-                Wasim Omran
+                Wasim 
               </p>
               <p>
               شطر وأفضل دكتور وقبل مايكون دكتور فهو انسان على خلق وانسان رحيم عن تجربه بفضل الله
@@ -226,7 +226,7 @@ const Departments = () => {
             </div>
             <div className='text-center m-2'>
               <p className='border-bottom p-2  m-2 fs-5'>
-                Reham Talat
+                Reham 
               </p>
               <p>
               اللهم بارك فعلا الجهاز تحفه ووفر علينا عمل اشاعه غاليه ربنا يوفقك حضرتك يادكتور
@@ -234,7 +234,7 @@ const Departments = () => {
             </div>
             <div className='text-center m-2'>
               <p className='border-bottom p-2  m-2 fs-5'>
-                Marwa Mohamed
+                Marwa 
               </p>
               <p>
               ربنا يبارك فحضرتك يا دكتور من اشطر الدكاتره عن تجربه بالتوفيق دايما أن شاء الله
@@ -242,7 +242,7 @@ const Departments = () => {
             </div>
             <div className='text-center m-2'>
               <p className='border-bottom p-2  m-2 fs-5'>
-                Anwer Elsayad
+                Anwer 
               </p>
               <p>
               ربنا يبارك فى حضرتك د هشام المحترم ويزيدك من فضله

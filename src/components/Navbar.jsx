@@ -62,15 +62,10 @@ function OffCanvasExample({ name, ...props }) {
                       <div className='m-3 border-bottom'>
                           <Link to={'/Our_advantages'} className='nav-item fs-5 m-5 ' >مميزاتنا</Link>
                       </div>
-                      <div className='m-3 border-bottom'>
-                          <Link to={'/'} className='nav-item fs-5 m-5 ' >أخبار</Link>
-                      </div>
                       <div   className='m-3 border-bottom'>
                                       <Link to={'/video'} className='nav-item fs-5 m-5'>فيديو</Link>
                                   </div>
-                      <div className='m-3 border-bottom'>
-                          <Link to={'/connet'} className='nav-item fs-5 m-3 ' >تواصل معنا</Link>
-                      </div>
+             
                   </div>
                 </Offcanvas.Body>
             </Offcanvas>

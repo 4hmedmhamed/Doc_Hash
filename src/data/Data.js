@@ -16,22 +16,12 @@ export const NavBar =[
       },
       {
         id: 4,
-        path: "/Our_advantages",
-        text: "مميزاتنا",
-      },
-      {
-        id: 5,
         path: "/contact",
-        text: "أخبار",
+        text: "مميزاتنا",
       },
       {
         id: 6,
         path: "/video",
         text: "فيديو",
       },
-      {
-        id: 7,
-        path: "/connet",
-        text: "تواصل  معنا",
-      },
-]
+    ]

@@ -23,7 +23,6 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";
 import { Context } from "./main";
-import Login from "./Pages/Login";
 const App = () => {
   const { isAuthenticated, setIsAuthenticated, setUser } =
     useContext(Context);
@@ -56,7 +55,7 @@ const App = () => {
           <Route path="/appointment" element={<Appointment />} />
           <Route path="/about" element={<AboutUs />} />
           <Route path="/Oursrvies" element={<Oursrvies />} />
-          <Route path="/Our_advantages" element={<Departments />} />
+          <Route path="/contact" element={<Departments />} />
           <Route path="/Video" element={<Video />} />
           <Route path="/Connect" element={<Connect />} />
           <Route path="/Report_1" element={<Report_1 />} />
