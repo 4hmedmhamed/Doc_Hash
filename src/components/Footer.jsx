@@ -8,6 +8,7 @@ import face from "../../public/assit/socail/face.jpeg"
 import you from "../../public/assit/socail/youtube.png"
 import wath from "../../public/assit/socail/wath.jpeg"
 import call from "../../public/assit/socail/call.png"
+import tiktok from "../../public/assit/socail/tiktok.png"
 
 import { MdOutlineMailOutline } from "react-icons/md";
 
