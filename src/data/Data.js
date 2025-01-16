@@ -2,7 +2,7 @@ export const NavBar =[
     {
         id: 1,
         path: "/",
-        text: "الرئيسة",
+        text: "الرئيسية",
       },
       {
         id: 2,
